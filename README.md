@@ -30,3 +30,5 @@ export default definePlugin({
 
 Don't use this fork
 Use this repo instead: https://github.com/Geoxor/Shaii
+
+<img src="https://cdn.discordapp.com/attachments/933655392972595200/939949788571516948/shit.gif">
